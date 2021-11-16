@@ -3,4 +3,4 @@ for i in range(ord('a'), ord('z')+1):
     if (chr(i) == 'q') or (chr(i) == 'e'):
         continue
     else:
-        print(i, end="")
+        print(chr(i), end="")
