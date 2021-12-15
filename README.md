@@ -1,6 +1,6 @@
 # This repository is created for Alx to learn higher level programming with python
 # Name: Mikiyas Bekele
 
-chmod u+rwx filename.py
+chmod u+rwx .
 
-chmod go+rx filename.py
+chmod go+rx .
