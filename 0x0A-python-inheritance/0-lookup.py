@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Author: Kanneh"""
+"""Author: MIkiyas"""
 
 
 def lookup(obj):
