@@ -1,5 +1,7 @@
 # Python - Almost a circle
 
+![Image](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/331/giphy.mp4)
+
 # Concepts 
 - Import
 - Exceptions
@@ -14,4 +16,3 @@
 - args and kwargs
 - Serialization/Deserialization
 - JSON
-## author: Mikiyas Bekele
